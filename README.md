@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python & NLP
 - 💞️ I’m looking to collaborate on A LARGE PROJECT 
 - 📫 How to reach me 
-- 😄 Pronouns: moonknight
+- 😄 Pronouns: genius 
 - ⚡ Fun fact: sun rises from the east..
 
 <!---
